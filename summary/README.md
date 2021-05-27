@@ -6,6 +6,9 @@
 ####　复杂表格：[https://xuliangzhan.com/vxe-table/index.html#/table/tree/expand]
 ####　流程图工具：G6、GO
 ####　码云　　暮志未晚
+####　牛客网   https://www.nowcoder.com/
+
+
 
 
 ##　一些比较好的分享文章
@@ -16,5 +19,6 @@
 ####　面试重点学习:[https://coding.imooc.com/learningpath/route?mc_marking=e1d9f7b53647cb62eaf73388bb97f0f4&mc_channel=syxxlx&pathId=27]
 ####　如何跟上前端开发的最新前沿:[https://uptodate.frontendrescue.org/zh/]
 ####　简单算法博客:[http://obkoro1.com/web_accumulate/algorithm/]
+#### 程序员学习方法 [https://github.com/jwasham/coding-interview-university/blob/main/translations/README-cn.md]
 
 
