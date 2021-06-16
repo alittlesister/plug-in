@@ -1,0 +1,64 @@
+.van-cell::after {
+  right: 0;
+}
+
+.van-field__label {
+  color: #606266;
+}
+.van-field__control::placeholder {
+  color: #303133;
+}
+.van-field__control::placeholder {
+  color: #c0c4cc;
+}
+.van-button {
+  border-radius: 4px;
+}
+.van-dialog {
+  .van-dialog__content {
+    .delete-info {
+      height: 100px;
+      display: flex;
+      flex-flow: column nowrap;
+      justify-content: center;
+      align-items: center;
+    }
+    .delete-btn {
+      width: 100%;
+      text-align: center;
+      margin-bottom: 16px;
+      .van-button {
+        margin-right: 16px;
+        width: 100px;
+        height: 32px;
+      }
+    }
+    i {
+      font-size: 40px;
+      color: #fc4d4f;
+    }
+    .delete-info-msg {
+      font-size: 14px;
+      font-weight: 500;
+      margin-top: 18px;
+      color: #303133;
+    }
+  }
+}
+
+.tip-add {
+  font-size: 12px;
+  font-weight: 400;
+  display: inline-flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  align-items: center;
+  i.van-icon {
+    font-size: 16px;
+    margin-right: 3px;
+  }
+}
+.scroller {
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
